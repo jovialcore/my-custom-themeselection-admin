@@ -8,7 +8,7 @@
     <meta name="viewport"
         content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0" />
 
-    <title>Builder Streak | Login </title>
+    <title>Demo | Login </title>
 
     <meta name="description" content="" />
 
@@ -61,11 +61,11 @@
                                 <span class="app-brand-logo demo">
                                     👨‍🍳
                                 </span>
-                                <span class="app-brand-text demo text-body fw-bold">Builder Streak</span>
+                                <span class="app-brand-text demo text-body fw-bold">The name of your app</span>
                             </a>
                         </div>
                         <!-- /Logo -->
-                        <h4 class="mb-2">Welcome to Builder-Streak! 👋</h4>
+                        <h4 class="mb-2">Welcome ! 👋</h4>
                         <p class="mb-4">Please sign-in to your account.</p>
 
                         <form action="{{ route('login') }}" method="post" class="mb-3" >
